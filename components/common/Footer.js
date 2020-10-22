@@ -6,19 +6,19 @@ const Footer = () => (
       <div className="row">
         <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
-            Commerce.js
+            Chic
           </p>
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
               <a
-                href="https://commercejs.com/docs/"
+                href="#"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
                 Documentation
               </a>
               <a
-                href="https://commercejs.com/features"
+                href="#"
                 className="d-block font-color-medium"
                 target="_blank"
               >
@@ -27,14 +27,14 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://commercejs.com/company/about"
+                href="#"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
                 About
               </a>
               <a
-                href="http://slack.commercejs.com/"
+                href="#"
                 className="d-block font-color-medium"
                 target="_blank"
               >
@@ -50,14 +50,14 @@ const Footer = () => (
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
               <a
-                href="https://twitter.com/commercejs"
+                href="https://twitter.com/#"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
                 Twitter
               </a>
               <a
-                href="https://www.instagram.com/commerce.js/"
+                href="https://www.instagram.com/#"
                 className="d-block font-color-medium"
                 target="_blank"
               >
@@ -66,14 +66,14 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://angel.co/company/chec"
+                href="#"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
                 Angel
               </a>
               <a
-                href="https://www.linkedin.com/company/chec-chec-commerce-inc.-/"
+                href="https://www.linkedin.com/company/#"
                 className="d-block font-color-medium"
                 target="_blank"
               >
@@ -132,7 +132,7 @@ const Footer = () => (
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
             >
-              &copy; { new Date().getFullYear() } Chec/Commerce.js.
+              &copy; { new Date().getFullYear() } Chic.
             </a>
           </div>
         </div>

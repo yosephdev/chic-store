@@ -11,7 +11,7 @@ import {
 
 // Use commerce.js checkout helper, commerce.checkout.getShippingOptions
 // to return list of available shipping methods for the provided checkout token
-export const getShippingOptionsForCheckout = (checkoutId, country = 'US') => (dispatch) => {
+export const getShippingOptionsForCheckout = (checkoutId, country = 'SE') => (dispatch) => {
   return commerce.checkout.getShippingOptions(checkoutId, { country })
     .then(shippingOptions => {
       dispatch({
