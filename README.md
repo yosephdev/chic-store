@@ -1,4 +1,4 @@
-#Chic-o
+# Chic-o
 
 # Demo Store with Commerce.js and Next.js 🛍️💳
 
