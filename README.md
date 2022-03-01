@@ -13,5 +13,4 @@ A high-fidelity fully-fledged eCommerce demo store built using the Commerce.js S
 **Note**
 - This app is built using Commerce.js v2 SDK
 
-# chec-store
 
