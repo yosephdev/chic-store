@@ -6,7 +6,7 @@ const Footer = () => (
       <div className="row">
         <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
-            Chic
+            Finhet
           </p>
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
@@ -64,14 +64,7 @@ const Footer = () => (
                 Instagram
               </a>
             </div>
-            <div>
-              <a
-                href="#"
-                className="mb-3 d-block font-color-medium"
-                target="_blank"
-              >
-                Angel
-              </a>
+            <div>              
               <a
                 href="https://www.linkedin.com/company/#"
                 className="d-block font-color-medium"
